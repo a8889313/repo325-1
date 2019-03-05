@@ -6,6 +6,6 @@ public class JavaFirst {
 
 	@Test
 	public void testHelloWrold() {
-		System.out.println("HelloWorld6666!");
+		System.out.println("HelloWorld6661116!");
 	}
 }
