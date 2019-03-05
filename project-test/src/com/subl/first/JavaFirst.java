@@ -7,5 +7,5 @@ public class JavaFirst {
 	@Test
 	public void testHelloWrold() {
 		System.out.println("HelloWorld6661116!");
-	}
+	}2222
 }
